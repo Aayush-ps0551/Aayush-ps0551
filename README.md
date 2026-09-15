@@ -32,7 +32,7 @@
 
 <br/>
 <div align="center">
-  <img src="./ultra-instinct.jpg" width="400" style="border-radius:12px;" alt="Ultra Instinct Goku"/>
+  <img src="./goku.png" width="400" style="border-radius:12px;" alt="Goku Smiling"/>
 </div>
 
 </td>
