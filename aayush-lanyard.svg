@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
+  <defs>
+    <!-- Swing animation -->
+    <style>
+      @keyframes swing {
+        0% { transform: rotate(2deg); }
+        50% { transform: rotate(-2deg); }
+        100% { transform: rotate(2deg); }
+      }
+      .card-group {
+        transform-origin: 150px -50px;
+        animation: swing 5s ease-in-out infinite;
+      }
+      .orange-glow { fill: #f97316; }
+      .hacker-green { fill: #22c55e; }
+      .id-text { font-family: 'Courier New', monospace; font-size: 14px; fill: #ffffff; }
+      .id-title { font-family: 'Courier New', monospace; font-weight: bold; font-size: 26px; fill: #f97316; }
+      .dbz-star { fill: #ef4444; }
+    </style>
+  </defs>
+
+  <g class="card-group">
+    <!-- Lanyard strap -->
+    <path d="M 100 -50 L 140 30 L 160 30 L 200 -50" fill="none" stroke="#22c55e" stroke-width="8" opacity="0.8"/>
+    <!-- Clip -->
+    <rect x="140" y="25" width="20" height="15" fill="#555" rx="3"/>
+    <circle cx="150" cy="45" r="5" fill="none" stroke="#555" stroke-width="3"/>
+    
+    <!-- ID Card Base -->
+    <rect x="40" y="50" width="220" height="350" fill="#0d1117" stroke="#22c55e" stroke-width="3" rx="10"/>
+    <!-- Hole punch -->
+    <rect x="125" y="60" width="50" height="8" fill="#000" rx="4"/>
+    
+    <!-- Profile Image Area (Goku / Hacker vibe) -->
+    <rect x="85" y="90" width="130" height="130" fill="#050505" stroke="#f97316" stroke-width="2" rx="65"/>
+    <!-- Dragon ball inside profile for DBZ vibe -->
+    <circle cx="150" cy="155" r="45" fill="#f97316" />
+    <circle cx="150" cy="155" r="35" fill="#eab308" />
+    <!-- 4 Stars (Dragon Ball) -->
+    <circle cx="150" cy="135" r="5" class="dbz-star"/>
+    <circle cx="130" cy="155" r="5" class="dbz-star"/>
+    <circle cx="170" cy="155" r="5" class="dbz-star"/>
+    <circle cx="150" cy="175" r="5" class="dbz-star"/>
+
+    <!-- Text Info -->
+    <text x="150" y="260" text-anchor="middle" class="id-title">AAYUSH</text>
+    <text x="150" y="280" text-anchor="middle" class="id-text" fill="#22c55e">@Aayush-ps0551</text>
+    
+    <rect x="50" y="300" width="200" height="2" fill="#22c55e" opacity="0.5"/>
+    
+    <text x="60" y="330" class="id-text">ROLE: SMART CONTRACT</text>
+    <text x="60" y="350" class="id-text">      HACKER</text>
+    <text x="60" y="375" class="id-text">PWR : OVER 9000</text>
+    
+    <!-- Barcode -->
+    <g transform="translate(60, 410) scale(1, -1)">
+      <rect x="0" y="0" width="4" height="25" fill="#22c55e"/>
+      <rect x="8" y="0" width="2" height="25" fill="#22c55e"/>
+      <rect x="12" y="0" width="6" height="25" fill="#22c55e"/>
+      <rect x="22" y="0" width="4" height="25" fill="#22c55e"/>
+      <rect x="30" y="0" width="8" height="25" fill="#22c55e"/>
+      <rect x="42" y="0" width="2" height="25" fill="#22c55e"/>
+      <rect x="48" y="0" width="6" height="25" fill="#22c55e"/>
+      <rect x="58" y="0" width="2" height="25" fill="#22c55e"/>
+      <rect x="62" y="0" width="8" height="25" fill="#22c55e"/>
+      <rect x="74" y="0" width="4" height="25" fill="#22c55e"/>
+      <rect x="82" y="0" width="6" height="25" fill="#22c55e"/>
+      <rect x="92" y="0" width="2" height="25" fill="#22c55e"/>
+      <rect x="98" y="0" width="8" height="25" fill="#22c55e"/>
+      <rect x="110" y="0" width="2" height="25" fill="#22c55e"/>
+      <rect x="114" y="0" width="4" height="25" fill="#22c55e"/>
+    </g>
+  </g>
+</svg>
