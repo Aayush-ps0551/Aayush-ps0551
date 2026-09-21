@@ -2,7 +2,7 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <img src="./aayush-banner.svg" alt="Aayush — Web3 & Smart Contract Developer" width="100%"/>
+  <img src="./aayush-banner.svg" alt="Aayush — Web2, Web3 & Cyber Secuirty" width="100%"/>
 </picture>
 
 </div>
