@@ -24,7 +24,6 @@
 | 🛡️ Project | 💻 Tech | ⚡ Status |
 |:---|:---:|:---:|
 | **[Smart Contract Vulnerability Scanner](#)** | `Solidity` `Python` `Web3` | 🟢 Active |
-| [Web3 Security Audits](#) | `Ethers.js` `Foundry` | 🚧 Building |
 
 <br/>
 
