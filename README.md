@@ -19,7 +19,7 @@
 </td>
 <td width="62%" valign="middle">
 
-### 🐉 Web2, Web3 & Cyber Security
+### 🐉 CYBER SECUIRTY
 
 | 🛡️ Project | 💻 Tech | ⚡ Status |
 |:---|:---:|:---:|
