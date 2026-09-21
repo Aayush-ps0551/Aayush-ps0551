@@ -24,6 +24,7 @@
 | 🛡️ Project | 💻 Tech | ⚡ Status |
 |:---|:---:|:---:|
 | **[Smart Contract Vulnerability Scanner](#)** | `Solidity` `Python` `Web3` | 🟢 Active |
+| **[Network Security & Intrustion Scanner](https://github.com/Aayush-ps0551/Network-Security-System)** | `Python` `Flask` `SQLite` | 🟢 Live |
 
 <br/>
 
