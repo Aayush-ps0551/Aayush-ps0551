@@ -19,7 +19,7 @@
 </td>
 <td width="62%" valign="middle">
 
-### 🐉 Web3 & Smart Contract Hacker
+### 🐉 Web2, Web3 & Cyber Security
 
 | 🛡️ Project | 💻 Tech | ⚡ Status |
 |:---|:---:|:---:|
